@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Auth Library
 
 Thư viện xác thực key cho ứng dụng iOS
@@ -14,7 +14,16 @@ Thư viện xác thực key cho ứng dụng iOS
 3. Thêm `Auth.a` và `Auth.h` vào dự án của bạn
 
 ## Sử dụng
+### Website
 
+Để sử dụng thư viện Auth, bạn cần đăng ký và lấy AppID từ website chính thức:
+
+[auth.anhvu.cc](https://auth.anhvu.cc)
+
+Website cung cấp các tính năng:
+- Tạo và quản lý AppID
+- Theo dõi người dùng đã kích hoạt
+- Quản lý keys và thời hạn
 ### Khởi tạo
 
 ```objective-c
@@ -73,13 +82,11 @@ AUTH_LOGOUT();
 
 ## Yêu cầu
 
-- iOS 9.0 trở lên
-- Xcode 11.0 trở lên
+- THEOS
+- AppID được tạo từ server https://auth.anhvu/cc/
 
-## Liên hệ
+## Cộng đồng
 
-Vui lòng liên hệ t.me/anhvu99er để được hỗ trợ thêm.
+Theo dõi kênh [Kênh telegram](https://t.me/anhvuauth) để cập nhật thông tin và hỗ trợ !
 =======
 # AnhvuAuth
-create authentication function for your tweak
->>>>>>> 705da441dfba73c33ec12eb1a623238ded5ee3fc
