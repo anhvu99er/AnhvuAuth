@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Auth Library
 
 Thư viện xác thực key cho ứng dụng iOS
@@ -78,3 +79,7 @@ AUTH_LOGOUT();
 ## Liên hệ
 
 Vui lòng liên hệ t.me/anhvu99er để được hỗ trợ thêm.
+=======
+# AnhvuAuth
+create authentication function for your tweak
+>>>>>>> 705da441dfba73c33ec12eb1a623238ded5ee3fc

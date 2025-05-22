@@ -33,3 +33,8 @@ Pods/
 .tmp/
 temp/
 
+# Additional files to ignore
+node_modules/
+.env
+*.log
+
